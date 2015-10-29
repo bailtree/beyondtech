@@ -13,3 +13,6 @@ Template: Divi
 @import url("../Divi/style.css");
 /* =Theme customization starts here
 ------------------------------------------------------- */
+.et_header_style_centered #main-header .logo_container {
+	height: 100px;
+	padding: 0;
